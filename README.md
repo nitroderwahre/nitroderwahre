@@ -2,10 +2,10 @@ Hello! My name is nitro.
 I'm interessted in IT and Web-development
   
 My setup:
- CPU - I7-10700KF
- GPU01 - RTX 4070 TI
- GPU02 - RTX 3060
- RAM: Corsair Vengeance RGB Pro 2x16GB
+ CPU - I7-10700KF,
+ GPU01 - RTX 4070 TI,
+ GPU02 - RTX 3060,
+ RAM: Corsair Vengeance RGB Pro 2x16GB,
  PSU: Be Quiet! 1200W
  
 Contact:
